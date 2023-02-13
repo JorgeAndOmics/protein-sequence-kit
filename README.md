@@ -14,7 +14,7 @@ This script requires the following packages to be installed:
 
 To use the bioinformatics tool, simply run the `run_bioinformatics_tool` from the directory where the script is located with the command:
 
-    python bioinformatics_tool.py
+    python protein_sequence_kit.py
 
  This will start an interactive command-line interface that allows you to choose from a variety of functions for analyzing, modifying, and processing amino acid sequences.
 
